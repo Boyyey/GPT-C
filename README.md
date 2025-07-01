@@ -68,7 +68,7 @@ Type a prompt and see what your C-powered GPT says.
 
 ```
 You: what is the meaning of life?
-Bot: eanig of life is to be and to see the world as it is.
+Bot: the meanig of life is to be and to see the world as it is.
 ```
 
 *(With a small model and dataset, expect poetic, weird, or remix-y outputs!)*
